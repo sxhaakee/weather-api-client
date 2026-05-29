@@ -1,4 +1,4 @@
-# Weather API Client 🌦️
+# weather-intelligence-client 🌦️
 
 A robust Python-based weather application that fetches real-time weather information using the OpenWeatherMap API.
 
