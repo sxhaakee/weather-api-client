@@ -461,7 +461,7 @@ Through this project, the following concepts were learned and implemented:
 
 # GitHub Repository
 
-[weather-api-client Repository](https://github.com/sxhaakee/weather-api-client?utm_source=chatgpt.com)
+[weather-api-client Repository](https://github.com/sxhaakee/weather-api-client.git)
 
 ---
 
@@ -470,4 +470,4 @@ Through this project, the following concepts were learned and implemented:
 Mohammed Shakeeb
 
 GitHub:
-[sxhaakee GitHub Profile](https://github.com/sxhaakee?utm_source=chatgpt.com)
+[sxhaakee GitHub Profile](https://github.com/sxhaakee)
