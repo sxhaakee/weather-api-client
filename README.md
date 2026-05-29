@@ -33,18 +33,18 @@ The project focuses on:
 
 # Features
 
--✅ Real-time weather data
--✅ Temperature in Celsius
--✅ Humidity tracking
--✅ Weather condition descriptions
--✅ Sunrise & sunset timings
--✅ Global timezone conversion
--✅ Country code → full country name mapping
--✅ Input validation
--✅ Exception handling
--✅ Logging system
--✅ Modular project structure
--✅ Secure API key handling using `.env`
+- ✅ Real-time weather data
+- ✅ Temperature in Celsius
+- ✅ Humidity tracking
+- ✅ Weather condition descriptions
+- ✅ Sunrise & sunset timings
+- ✅ Global timezone conversion
+- ✅ Country code → full country name mapping
+- ✅ Input validation
+- ✅ Exception handling
+- ✅ Logging system
+- ✅ Modular project structure
+- ✅ Secure API key handling using `.env`
 
 ---
 
